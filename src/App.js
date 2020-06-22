@@ -6,7 +6,7 @@ function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <h6 className="App-logo"> Juanma Gato!!!!</h6>
+        <h6 className="App-logo"> Juanma Gatov2!!!!</h6>
         <p>
           Edit <code>src/App.js</code> and save to reload.
         </p>
